@@ -1,1 +1,1 @@
-
+The job-tee_branch_pipe.inp file is the model of the tee-branch pipe example in paper "Explicit layout optimization of complex rib-reinforced thin-walled structures via computational conformal mapping (CCM)", just download it if you're interested, have a nice day :)
